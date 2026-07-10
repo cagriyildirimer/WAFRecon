@@ -63,3 +63,7 @@ Add the product to `DefaultDatabase` in `internal/fingerprint/database.go`. Each
 ## Limitations and responsible use
 
 Fingerprint results are probabilistic, so false positives and false negatives are possible. A lack of conclusive results does not prove that the target has no WAF or CDN. Use WAFRecon only on systems you own or have explicit permission to test. You are responsible for complying with all applicable laws, policies, and authorization boundaries.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
